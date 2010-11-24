@@ -2,4 +2,4 @@ This tool was created to test the recently released information regarding POST a
 
 This is a quick and dirty way of doing this by spawning multiple threads and holding POST sessions opened. I have successfully tested this tool on a test HTTP server on my network.
 
-Please do not use this tool for mallicious purposes. There is no redirection present, the User-Agent is easilly recognisable and you WILL (and should) get caught.
+Please do not use this tool for malicious purposes. There is no redirection present, the User-Agent is easily recognisable and you WILL (and should) get caught.
