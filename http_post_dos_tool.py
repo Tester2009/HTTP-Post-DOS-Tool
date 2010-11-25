@@ -31,7 +31,7 @@ class http_post_dos(threading.Thread):
 			self._socket.close()
 
 		except socket.error as e:
-			print e.strerror()
+			print e
 			
 
 	def _send_http_post(self, pause=10):
